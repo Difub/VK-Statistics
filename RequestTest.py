@@ -41,7 +41,6 @@ def miniParserGroupStats(days=2):
 print(miniParserGroupStats())
 
 
-
 #def getGroupPostStats():
 #        """ Работает если у группы более 5000 подписчиков
 #        нужен иной метод"""
